@@ -1,4 +1,4 @@
-# Optifine Optimizations
-This GitHub repository contains Optifine optimization settings that can help boost your Minecraft performance, achieving 200+ FPS.
+# Minecraft OptiFine Optimizations  
+This GitHub repository contains OptiFine optimization settings that can help boost your Minecraft performance, allowing you to achieve 200+ FPS on a low-end system.  
 
-[Tutorial on how to use it](https://www.youtube.com/watch?v=d7-TU8aHruA)
+This repository is archived and has been moved to https://github.com/RuskyDev/snail-optimizer which offers better performance and more optimizations.
